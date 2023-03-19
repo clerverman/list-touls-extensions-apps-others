@@ -1,0 +1,57 @@
+- chartjs : npm i chart.js
+- json-server : npm i -g json-server
+- bootswatch : npm i bootswatch
+- lodash : npm i lodash
+- Cmder.net :  http://cmder.net
+- animateJS 
+- Bulma css 
+- Emmet : loream5 => 5 nmbrs de mots 
+- oripsum.net 
+- pexels : pour les images 
+- picsum.photos : pour les images 
+- lorempixel : aussi pour les images 
+- uifaces.co
+- randomuser.me : générer les profiles 
+- les templates gratuits :
+    * html5up.net
+    * startbootstrap.com
+    * templated.co
+    * freehtml5.co
+    * colorlib.com
+    * styleShout.com
+    * html5xcss3.com 
+    * athemes.com
+    * themewagor.com : templates pour les sites e-commerces
+- les packages pour Angular :
+    * ng2-chart >>> les chartes
+    * angular google maps >>> maps 
+    * angularfire >>> firebase
+    * bootstrap wedget : https://ng-bootstrap.github.io/#/home
+    * material design : https://material.angular.io/components/categories
+    * ng-translate : traduction 
+    * ngx-pipes  // les pipes 
+    * ngx-loagin-bar  >> loaging bars 
+    * mattlewis92.github.io  // canlendat
+    * valor-software.com/ng2-dragula >>> drag and drop 
+    * swimlane.github.io/ngx-datatable // les datatables 
+    * ng-animate 
+    * ng-formly >> les formulaires dynamiques
+    * ngrx 
+
+- les extensions 
+    * whatFont => les fonts , color , width =>>> des sites
+    * window resizar => reponsive  
+    * svg export => les svg dans un site
+    * colour constrast checker >> tester la faisabilité des coueleurs 
+    * ux checker 
+    * css peeper => css d'un site 
+- les web sites 
+    * overAPI.com >> 
+    * aminated backgrounds
+    * patternpad 
+    * 100l5
+    * magicoon
+    * mixFont 
+    * https://fontjoy.com/
+
+- lottieFiles pour l'animations
